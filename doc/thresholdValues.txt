@@ -1,0 +1,29 @@
+# tracked barrel
+# [ min, max, step, upper/lowerBound]: max excluded, min included
+# treeName.branchName
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.ptHltEle		[27,30,3,>]	EB
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.clusterShapeHltEle			[0.011,0.021,0.005,<]	EB
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.hadEmHltEle				[0.04,0.16,0.06,<]	EB
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.ecalIsoHltEle	[0.16,0.4,0.12,<]	EB
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.hcalIsoHltEle	[0.11,0.37,0.13,<]	EB
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.trackIsoHltEle	[0.125,0.126,0.01,<]	EB
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.dEtaHltEle	[0.005,0.006,0.002,<]	EB 
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.dPhiHltEle	[0.03,0.034,0.02,<]	EB
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.epHltEle	[0.012,0.013,0.01,<]	EB 
+
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.ptHltEle		[27,33,6,>]	tEE
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.clusterShapeHltEle	[0.025,0.037,0.006,<]	tEE
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.hadEmHltEle	[0.075,0.195,0.06,<]	tEE
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.ecalIsoHltEle	[0.11,0.35,0.12,<]	tEE
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.hcalIsoHltEle	[0.11,0.39,0.14,<]	tEE
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.trackIsoHltEle	[0.125,0.126,0.01,<]	tEE
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.dEtaHltEle	[0.01,0.012,0.01,<]	tEE 
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.dPhiHltEle	[0.03,0.034,0.02,<]	tEE
+recoAnalyzerMatchedTracked/recoTreeBeforeTriggerFiltersMatchedTrackedSignal.epHltEle	[0.009,0.01,0.01,<]	tEE 
+
+recoAnalyzerMatchedTrackless/recoTreeBeforeTriggerFiltersMatchedTracklessSignal.ptHltEle		[10,15,5,>]	utEE
+recoAnalyzerMatchedTrackless/recoTreeBeforeTriggerFiltersMatchedTracklessSignal.clusterShapeHltEle	[0.025,0.037,0.006,<]	utEE
+recoAnalyzerMatchedTrackless/recoTreeBeforeTriggerFiltersMatchedTracklessSignal.hadEmHltEle	[0.075,0.375,0.15,<]	utEE
+recoAnalyzerMatchedTrackless/recoTreeBeforeTriggerFiltersMatchedTracklessSignal.ecalIsoHltEle	[0.1,0.3,0.1,<]	utEE
+recoAnalyzerMatchedTrackless/recoTreeBeforeTriggerFiltersMatchedTracklessSignal.hcalIsoHltEle	[0.2,0.7,0.25,<]	utEE
+

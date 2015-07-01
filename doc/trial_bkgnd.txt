@@ -1,0 +1,24 @@
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.ptHltEle		[27,30,3,>]	EB
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.clusterShapeHltEle			[0.011,0.025,0.007,<]	EB
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.hadEmHltEle				[0.1,0.24,0.07,<]	EB
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.ecalIsoHltEle	[0.16,0.48,0.16,<]	EB
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.hcalIsoHltEle	[0.11,0.43,0.16,<]	EB
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.trackIsoHltEle	[0.125,0.126,0.01,<]	EB
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.dEtaHltEle	[0.005,0.006,0.002,<]	EB 
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.dPhiHltEle	[0.03,0.034,0.02,<]	EB
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.epHltEle	[0.012,0.013,0.01,<]	EB 
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.ptHltEle		[27,33,6,>]	tEE
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.clusterShapeHltEle	[0.031,0.045,0.007,<]	tEE
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.hadEmHltEle	[0.075,0.275,0.1,<]	tEE
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.ecalIsoHltEle	[0.11,0.43,0.16,<]	tEE
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.hcalIsoHltEle	[0.11,0.47,0.18,<]	tEE
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.trackIsoHltEle	[0.125,0.126,0.01,<]	tEE
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.dEtaHltEle	[0.01,0.012,0.01,<]	tEE 
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.dPhiHltEle	[0.03,0.034,0.02,<]	tEE
+recoAnalyzerTracked/recoTreeBeforeTriggerFiltersTrackedBkgnd.epHltEle	[0.009,0.01,0.01,<]	tEE 
+recoAnalyzerTrackless/recoTreeBeforeTriggerFiltersTracklessBkgnd.ptHltEle		[10,15,5,>]	utEE
+recoAnalyzerTrackless/recoTreeBeforeTriggerFiltersTracklessBkgnd.clusterShapeHltEle	[0.031,0.045,0.007,<]	utEE
+recoAnalyzerTrackless/recoTreeBeforeTriggerFiltersTracklessBkgnd.hadEmHltEle	[0.075,0.475,0.2,<]	utEE
+recoAnalyzerTrackless/recoTreeBeforeTriggerFiltersTracklessBkgnd.ecalIsoHltEle	[0.2,0.44,0.12,<]	utEE
+recoAnalyzerTrackless/recoTreeBeforeTriggerFiltersTracklessBkgnd.hcalIsoHltEle	[0.2,0.8,0.3,<]	utEE
+

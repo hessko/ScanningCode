@@ -1,0 +1,24 @@
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.ptHltEle		[22,25,4,>]	EB
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.clusterShapeHltEle			[0.017,0.011,-0.009,<]	EB
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.hadEmHltEle				[0.2,0.08,-0.2,<]	EB
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.ecalIsoHltEle	[0.35,0.15,-0.3,<]	EB
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.hcalIsoHltEle	[0.3,0.15,-0.2,<]	EB
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.trackIsoHltEle	[0.125,0.124,-0.01,<]	EB
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.dEtaHltEle	[0.005,0.004,-0.002,<]	EB 
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.dPhiHltEle	[0.03,0.029,-0.02,<]	EB
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.epHltEle	[0.012,0.011,-0.01,<]	EB 
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.ptHltEle		[27,34,8,>]	tEE
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.clusterShapeHltEle	[0.036,0.028,-0.009,<]	tEE
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.hadEmHltEle	[0.2,0.1,-0.15,<]	tEE
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.ecalIsoHltEle	[0.25,0.09,-0.2,<]	tEE
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.hcalIsoHltEle	[0.3,0.14,-0.2,<]	tEE
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.trackIsoHltEle	[0.125,0.124,-0.01,<]	tEE
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.dEtaHltEle	[0.01,0.009,-0.01,<]	tEE 
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.dPhiHltEle	[0.03,0.029,-0.02,<]	tEE
+recoAnalyzerMatchedTrackedWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTrackedSignalWithL1Filter.epHltEle	[0.009,0.008,-0.01,<]	tEE 
+recoAnalyzerMatchedTracklessWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTracklessSignalWithL1Filter.ptHltEle		[20,24,2,>]	utEE
+recoAnalyzerMatchedTracklessWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTracklessSignalWithL1Filter.clusterShapeHltEle	[0.04,0.03,-0.01,<]	utEE
+recoAnalyzerMatchedTracklessWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTracklessSignalWithL1Filter.hadEmHltEle	[0.25,0.12,-0.065,<]	utEE
+recoAnalyzerMatchedTracklessWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTracklessSignalWithL1Filter.ecalIsoHltEle	[0.25,0.1,-0.075,<]	utEE
+recoAnalyzerMatchedTracklessWithL1Filter/recoTreeBeforeTriggerFiltersMatchedTracklessSignalWithL1Filter.hcalIsoHltEle	[0.77,0.37,-0.2,<]	utEE
+

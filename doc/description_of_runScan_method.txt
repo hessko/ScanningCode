@@ -1,0 +1,39 @@
+The runScan() method in the Scan class is has been written with as much generality as possible, but has been tailored to
+the problem of optimizing the double electron trigger using two input TChain objects whose branches contain Float_t arrays.
+A high level description of the event counting code within runScan() is given here to facilitate reusing
+a modified version of runScan() with the WR analysis (to optimize offline
+cuts).
+
+for each evt in the two input TChains:
+  if first element (a pointer to TChain) in pInputChains was made by trackless leg:
+    loop over entries in etaHltEle array and save trackless tree branch entries
+    with |eta| btwn 2.5 and 3 for bkgnd and signal evts.  For signal evts only
+    a single entry is saved - the entry which minimizes deltaR between the
+    reco and gen electron objects and has dR<0.15.  Do the same for the tracked tuple (tied
+    to the second element in pInputChains) and apply the tracker eta cuts.
+
+	continue to the next evt if no bkgnd or sig entries pass the eta cuts for
+	both legs.
+
+	loop over CutVar objects stored in cutContainer:
+	  if pInputChains contains pointers to signal tuples:
+	    if CutVar object corresponds to the trackless EE region:
+		  check if the matched trackless signal entry fails the cut.  If it fails, or
+		  if no match is made beforehand, leave the loop over cutContainer elements.
+		  Move on to the next event in the two input tuples.
+		else (CutVar object corresponds to tracked leg):
+		  if CutVar object is tied to tracked EB and matched tracked signal entry has
+		  |eta| < 1.479:
+
+
+		  if CutVar object is tied to tracked EE and matched tracked signal entry has
+		  |eta| >= 1.479:
+			check if the matched tracked signal entry fails the cut.  If it
+			fails, or if no match is made beforehand, leave the loop over
+			cutContainer elements.  Go to the next evt in the input tuples.
+ 
+
+
+  if first element (a pointer to TChain) in pInputChains was made by tracked leg:
+
+
